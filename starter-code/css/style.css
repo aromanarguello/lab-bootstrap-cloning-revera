@@ -27,6 +27,7 @@ h1 {
   background-size: cover;
   display: flex;
   align-items: center;
+  color: black;
 }
 
 h2 {
@@ -35,4 +36,8 @@ h2 {
 
 .main-text-container p {
   text-align: center;
+}
+
+.over-img {
+  background-image: url(../img/overlay.png);
 }
