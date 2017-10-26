@@ -20,15 +20,16 @@ h1 {
 }
 
 
-.main-text-container {
+/*.main-text-container {
   width: 100%;
   height: 500px;
   background-image: url('../img/slider.jpg');
   background-size: cover;
+  background-color: gray;
   display: flex;
   align-items: center;
   color: black;
-}
+}*/
 
 h2 {
   text-align: center;
@@ -36,8 +37,4 @@ h2 {
 
 .main-text-container p {
   text-align: center;
-}
-
-.over-img {
-  background-image: url(../img/overlay.png);
 }
